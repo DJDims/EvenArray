@@ -50,7 +50,7 @@ public class EvenArray {
             mid += numbers[i];
             count++;
         }
-        System.out.println(mid / count);
+        System.out.println("Среднее = " + mid / count);
     }
     
 }
